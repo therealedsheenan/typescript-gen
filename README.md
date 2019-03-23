@@ -1,4 +1,4 @@
-# typescript-gen
+# Matchat server
 Express generator written on typescript
 
 ## Install application
@@ -13,5 +13,5 @@ $ npm run build # yarn build
 
 ## Run server
 ```
-$ npm run server # yarn server
+$ npm run start # yarn start
 ```

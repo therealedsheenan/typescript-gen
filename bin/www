@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 // module dependencies
-var AppClass = require('../build/index');
-var app = new AppClass.Index().app;
+var Init = require('../build/index');
+var app = new Init.Index().app;
 var debug = require('debug')('typescript-gen:server');
 var http = require('http');
 
